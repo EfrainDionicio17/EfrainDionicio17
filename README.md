@@ -13,7 +13,7 @@ Me llamo Efrain y estudio en la facultad de informática UAQ
 - jugar
     -   genshin
 
-## mis gustos
+## mi gusto
 ![foto de mis gust...](mascota.jpg)
 dasdasdas
 
@@ -31,3 +31,8 @@ console.log('hello world');
 ``` c++
 cout<<"hola mundo";
 ``` 
+
+
+``` html
+<P> HELLO WORLD</P>
+```
