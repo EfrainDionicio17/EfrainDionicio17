@@ -14,6 +14,6 @@ Me llamo Efrain y estudio en la facultad de informática UAQ
     -   genshin
 
 ## mis gustos
-![foto de mis gust...](futaba.png)
+![foto de mis gust...](mascota.jpg)
 dasdasdas
 
